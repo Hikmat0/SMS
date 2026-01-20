@@ -21,7 +21,7 @@ public class StudentController {
 
     public void start() throws InterruptedException {
         while (true) {
-            Thread.sleep(100);
+          //3Thread.sleep(100);
             try {
                 System.out.println("\n1. Add Student");
                 System.out.println("2. Show All Students");

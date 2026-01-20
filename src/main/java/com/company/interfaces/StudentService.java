@@ -1,7 +1,6 @@
 package com.company.interfaces;
 
 import com.company.dto.StudentDTO;
-
 import java.util.List;
 
 public interface StudentService {
